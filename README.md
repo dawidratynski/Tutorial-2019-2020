@@ -1,5 +1,8 @@
 # Tutorial 2019/2020
  Folder na kod, pliki i zestawy danych z tutorialu Collegium Invisible z edycji 2019/2020
+ 
+ Uwaga: Z powodu problemów z renderowaniem niektórych notatników Jupyter przez GitHub wyrenderowane notatniki są dostępne również tu:
+ https://nbviewer.org/github/dawidratynski/Tutorial-2019-2020/tree/master/Tutorial%202019-2020/
 
 1) Klasyfikacja tekstu
 
